@@ -1,0 +1,10 @@
+{
+  "name": "NodeStateMachine",
+  "version": "0.1.0",
+  "description": "NodeStateMachine",
+  "main": "app.js",
+  "author": {
+    "name": "SuperEVO",
+    "email": "zhang740@vmzclub.com"
+  }
+}
